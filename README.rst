@@ -1,4 +1,4 @@
-DTK-Portal - Web portal for discovering interesting projects
+Python Hydrosoc workshop 2018
 ===================================================================
 
-The `Data-to-Knowledge (DTK) Portal <https://dtk-portal.readthedocs.io>`_ is a site that links and describes interesting projects that have been developed using the Data-to-Knowledge platform tool set. These are all open source projects developed to improve collaboration between individuals and organisations.
+Placemarker for the Hydrosoc conference workshop on Python for env scientists.
