@@ -1,4 +1,18 @@
 Python Hydrosoc workshop 2018
-===================================================================
+==============================
 
-Placemarker for the Hydrosoc conference workshop on Python for env scientists.
+The general goal of the course is to get people more familiar with Python tools specifically beneficial for natural/environmental scientists in New Zealand. This will be accomplished through a combination of practical exercises and presentations.
+
+All course material is accessible via the course website (add link).
+
+Intended audience
+------------------
+The intended audience for the course are people with very little to some experience with programming (Python or otherwise). Those people with a lot of Python programming experience will not likely get much out of the course unless they have not used the Pandas package in the past.
+
+Prerequisites
+-------------
+The main prerequisite for the course is the `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_. Please become familiar with the sections starting with `Basic Python Objects, Variables, and Operators <https://basic-python.readthedocs.io/en/latest/basic_objects.html>`_.
+
+Course summary
+--------------
+The course will cover the fundamental handling of tabular data and the associated processing and analysis tools. We will be primarily using the toolset contained within the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_. This will include reading/writing data, indexing, reshaping, computations, joining tables, time series handling, and visualization.
