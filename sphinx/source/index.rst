@@ -11,7 +11,7 @@ The intended audience for the course are people with very little to some experie
 
 Prerequisites
 -------------
-The main prerequisite for the course is the `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_. First, `install python <https://basic-python.readthedocs.io/en/latest/installing_python.html#our-recommended-python-installation-for-further-work>`_. Then please become familiar with the sections starting with `Basic Python Objects, Variables, and Operators <https://basic-python.readthedocs.io/en/latest/basic_objects.html>`_.
+The main prerequisite for the course is the `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_. First, `install python <https://conda.io/docs/user-guide/install/index.html>`_. Then please become familiar with the sections starting with `Basic Python Objects, Variables, and Operators <https://basic-python.readthedocs.io/en/latest/basic_objects.html>`_.
 
 Course summary
 --------------
