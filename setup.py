@@ -7,7 +7,7 @@ import os
 here = os.path.abspath(os.path.dirname(__file__))
 
 # General parameters
-name = 'DTK-Portal'
+name = 'hydrosoc-2018'
 # main_package = 'eto'
 # datasets = 'datasets'
 version = '1.0.0'
@@ -78,7 +78,7 @@ setup(
     #
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
-    url='https://github.com/Data-to-Knowledge/DTK-Portal',  # Optional
+    url='https://github.com/Data-to-Knowledge/Hydrosoc-python-2018',  # Optional
 
     # This should be your name or the name of the organization which owns the
     # project.
@@ -120,7 +120,7 @@ setup(
     # project page. What does your project relate to?
     #
     # Note that this is a string of words separated by whitespace, not a list.
-    keywords='data portal',  # Optional
+    keywords='python course hydrosoc',  # Optional
 
     # You can just specify package directories manually here if your project is
     # simple. Or you can use find_packages().

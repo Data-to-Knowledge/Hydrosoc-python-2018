@@ -1,4 +1,4 @@
-{% set name = "DTK-Portal" %}
+{% set name = "hydrosoc-2018" %}
 {% set version = "1.0.0" %}
 {% set sha256 = "7e5a4984c18f64ebeb26e6a9366e7b61d30aeaede66598ab72b3fd23facb5e9c" %}
 

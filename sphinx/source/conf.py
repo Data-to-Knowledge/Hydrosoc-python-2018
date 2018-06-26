@@ -20,7 +20,7 @@
 import os
 import sys
 
-project_name = 'DTK-Portal'
+project_name = 'hydrosoc-2018'
 
 # !! These do not work when reading files with IPython !!
 # The data files needs to be located at the root of the repository
