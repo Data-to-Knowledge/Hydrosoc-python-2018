@@ -20,8 +20,8 @@ The course will cover the fundamental handling of tabular data and the associate
 Instructors
 -----------
 - Mike Kittridge
-  - ECan
-  - mike.exner-kittridge@ecan.govt.nz
+  + ECan
+  + mike.exner-kittridge@ecan.govt.nz
 - Matt Hanson
-  - ECan
-  - matt.hanson@ecan.govt.nz
+  + ECan
+  + matt.hanson@ecan.govt.nz
