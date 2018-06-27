@@ -3,7 +3,7 @@ Python Hydrosoc workshop 2018
 
 The general goal of the course is to get people more familiar with Python tools specifically beneficial for natural/environmental scientists in New Zealand. This will be accomplished through a combination of practical exercises and presentations.
 
-All course materials are accessible via the `course website <http://hydrosoc-python-2018.rtfd.io/>`_.
+All course materials are accessible via the `course website <https://hydrosoc-python-2018.readthedocs.io>`_.
 
 Intended audience
 ------------------
