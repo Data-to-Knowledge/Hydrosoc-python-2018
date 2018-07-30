@@ -25,6 +25,10 @@ Registration
 ------------
 Please contact the instructors via the email addresses below to sign up for the workshop. There will be a maximum of 30 attendees for the workshop. Suggestions for advanced topics or examples are welcome.
 
+Location and date
+-----------------
+The Location of the workshop will be at Environment Canterbury (200 Tuam Street, Christchurch) in the Waimakariri Room. It will take place at 9:00 on Monday Dec 8th, 2018. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch.
+
 Instructors
 -----------
 - Mike Kittridge
