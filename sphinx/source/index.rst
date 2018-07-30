@@ -27,7 +27,7 @@ Please contact the instructors via the email addresses below to sign up for the 
 
 Location and date
 -----------------
-The Location of the workshop will be at `Environment Canterbury <https://goo.gl/maps/Wq6moBigvwS2>`_ (200 Tuam Street, Christchurch) in the Waimakariri Room. It will take place at 9:00 on Monday Dec 8th, 2018. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch.
+The Location of the workshop will be at `Environment Canterbury <https://goo.gl/maps/Wq6moBigvwS2>`_ (200 Tuam Street, Christchurch) in the Waimakariri Room. It will take place at 9:00 on Monday Dec 3rd, 2018. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch.
 
 Instructors
 -----------
