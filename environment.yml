@@ -1,0 +1,9 @@
+name: hydrosoc-2018
+channels:
+- mullenkamp
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- pdsql
+- matplotlib
