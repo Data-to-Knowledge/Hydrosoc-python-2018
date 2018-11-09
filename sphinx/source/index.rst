@@ -38,6 +38,18 @@ Instructors
  + ECan
  + matt.hanson@ecan.govt.nz
 
+Reference material
+------------------
+- Basic Python
+ + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
+ + `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
+ + `Learning Python 3 <https://gist.githubusercontent.com/kenjyco/69eeb503125035f21a9d/raw/learning-python3.ipynb>`_
+ + `Official docs <https://www.python.org/about/gettingstarted/>`_
+
+Using the Jupyter Notebooks for the workshop modules
+----------------------------------------------------
+This workshop uses self contained code sets called `Jupyter Notebooks `.
+
 Modules
 --------------
 
