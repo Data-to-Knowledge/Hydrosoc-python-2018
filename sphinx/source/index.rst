@@ -53,9 +53,10 @@ This workshop uses self contained code sets called `Jupyter Notebooks <http://ju
 If you would like to install your own Python environment, then please read through and follow the documentation in `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io/en/latest/installing_python.html>`_ especially as it relates to installing Miniconda and creating multiple python environments. If you feel like you'd like to give it a try, download the `environment.yml <https://raw.githubusercontent.com/Data-to-Knowledge/Hydrosoc-python-2018/master/environment.yml>`_ from this workshop's github repo and run the following line from the Anaconda prompt:
 
 .. code::
-  
+
   conda env create -f environment.yml
 
+It might take a couple minutes, but just be patient...
 
 Modules
 --------------
