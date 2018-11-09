@@ -1,6 +1,8 @@
 Python Hydrosoc workshop 2018
 ==============================
 
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master
+
 The volume of data collected and available to scientists has grown in magnitudes over the past decades. It has grown to an extent that cannot be effectively handled by spreadsheets passed from one person to another. Fortunately, the toolsets to handle large amounts of data has grown as well, although it can be quite hard to keep up with the rapid developments of these toolsets.
 
 The Python programming language is one of the most popular languages for both general purposes and scientific. This is due in part by the ease of use, open source code, and the large open source community that has developed a number of professional level toolsets for a wide range of applications.
@@ -8,6 +10,8 @@ The Python programming language is one of the most popular languages for both ge
 The general goal of the workshop is to teach Python tools specifically beneficial for natural/environmental scientists in New Zealand handling large amounts of data. This will be accomplished through a combination of practical exercises and presentations.
 
 All workshop materials are accessible via the `course website <https://hydrosoc-python-2018.readthedocs.io>`_.
+
+`Link to binder Jupyter notebooks <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master>`_
 
 Intended audience
 ------------------
