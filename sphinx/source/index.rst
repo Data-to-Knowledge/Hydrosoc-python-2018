@@ -48,9 +48,9 @@ Reference material
 
 Using the Jupyter Notebooks for the workshop modules
 ----------------------------------------------------
-This workshop uses self contained code sets called `Jupyter Notebooks <http://jupyter.org/>`_. For the workshop, the preferred method to run the notebooks will be through the `binder <https://mybinder.org/>`_ links that build the correct python environment for the notebooks to be run under. This ensures that no one will have issues properly running the notebooks.
+This workshop uses self contained code sets called `Jupyter Notebooks <http://jupyter.org/>`_. The workshop will not explicitly cover how to install python on your PC, but you are welcome to ask questions about it. Consequently for the workshop, the preferred method to run the notebooks will be through the `binder <https://mybinder.org/>`_ links that build the correct python environment for the notebooks to be run under. This ensures that no one will have issues properly running the notebooks.
 
-If you would like to install your own Python environment, then please read through and follow the documentation in `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io/en/latest/installing_python.html>`_ especially as it relates to installing Miniconda and creating multiple python environments. If you feel like you'd like to give it a try, download the `environment.yml <https://raw.githubusercontent.com/Data-to-Knowledge/Hydrosoc-python-2018/master/environment.yml>`_ from this workshop's github repo and run the following line from the Anaconda prompt:
+If you would like to install your own Python environment, then please read through and follow the documentation in `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io/en/latest/installing_python.html>`_ especially as it relates to installing Anaconda/Miniconda and creating multiple python environments. If you feel like you'd like to give it a try, download the `environment.yml <https://raw.githubusercontent.com/Data-to-Knowledge/Hydrosoc-python-2018/master/environment.yml>`_ from this workshop's github repo and run the following line from the Anaconda prompt:
 
 .. code::
 
