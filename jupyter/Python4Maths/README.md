@@ -1,17 +1,19 @@
 <small><small><i>
+This course is almost directly copied from the below repository. Only minor modifications have been made.
+
 Introduction to Python - available from https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git
 
 The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
-The notes have been updated for Python 3 and amended for use in Monash University mathematics courses by [Andreas Ernst](http://users.monash.edu.au/~andreas) 
+The notes have been updated for Python 3 and amended for use in Monash University mathematics courses by [Andreas Ernst](http://users.monash.edu.au/~andreas)
 </small></small></i>
 
 # Python-Lectures
 
 ## Introduction
 
-Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming. 
+Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming.
 
-Python, similar to other languages like matlab or R, is interpreted hence runs slowly compared to C++, Fortran or Java. However writing programs in Python is very quick. Python has a very large collection of libraries for everything from scientific computing to web services. It caters for object oriented and functional programming with module system that allows large and complex applications to be developed in Python. 
+Python, similar to other languages like matlab or R, is interpreted hence runs slowly compared to C++, Fortran or Java. However writing programs in Python is very quick. Python has a very large collection of libraries for everything from scientific computing to web services. It caters for object oriented and functional programming with module system that allows large and complex applications to be developed in Python.
 
 These lectures are using jupyter notebooks which mix Python code with documentation. The python notebooks can be run on a webserver or stand-alone on a computer.
 
@@ -30,19 +32,14 @@ print('The sum of ∑_i∈N i*i =',sum( i**2 for i in N ) )
 
 This course is broken up into a number of notebooks (chapters).
 
-* [00](Intro-to-Python/00.ipynb) This introduction with additional information below on how to get started in running python
-* [01](Intro-to-Python/01.ipynb) Basic data types and operations (numbers, strings) 
-* [02](Intro-to-Python/02.ipynb) String manipulation 
+* [01](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F01.ipynb) Basic data types and operations (numbers, strings)
+* [02](Intro-to-Python/02.ipynb) String manipulation
 * [03](Intro-to-Python/03.ipynb) Data structures: Lists and Tuples
 * [04](Intro-to-Python/04.ipynb) Data structures (continued): dictionaries
 * [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
 * [06](Intro-to-Python/06.ipynb) Functions
 * [07](Intro-to-Python/07.ipynb) Classes and basic object oriented programming
-* [08](Intro-to-Python/08.ipynb) Scipy: libraries for arrays (matrices) and plotting
-* [09](Intro-to-Python/09.ipynb) Mixed Integer Linear Programming using the mymip library
-* [10](Intro-to-Python/10.ipynb) Networks and graphs under python - a very brief introduction
-* [11](Intro-to-Python/11.ipynb) Using the numba library for fast numerical computing.
-    
+
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
 
@@ -55,7 +52,7 @@ The easiest way to run this and other notebooks for staff and students at Monash
 * Press the start button (if prompted by the system)
 * Use the menu of the jupyter system to upload a .ipynb python notebook file or to start a new notebook.
 
-### Installing 
+### Installing
 
 Python runs on windows, linux, mac and other environments. There are many python distributions available. However the recommended way to install python under Microsoft Windows or Linux is to use the Anaconda distribution available at [https://www.continuum.io/downloads]. Make sure to get the Python *3.5* version, not 2.7. This distribution comes with the [SciPy](https://www.scipy.org/) collection of scientific python tools as well as the iron python notebook. For developing python code without notebooks consider using [spyder](https://github.com/spyder-ide/spyder) (also included with Anaconda)
 
