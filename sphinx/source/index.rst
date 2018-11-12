@@ -43,6 +43,7 @@ Reference material
 - Basic Python
  + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
  + `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
+ + `Intro to Python <http://introtopython.org>`_
  + `Learning Python 3 <https://mybinder.org/v2/gist/kenjyco/69eeb503125035f21a9d/master?filepath=learning-python3.ipynb>`_
  + `Official Beginners Guide <https://wiki.python.org/moin/BeginnersGuide>`_
 
