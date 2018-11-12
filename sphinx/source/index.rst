@@ -13,10 +13,6 @@ Intended audience
 ------------------
 The intended audience for the workshop are people with very little to some experience with programming (Python or otherwise). Those people with a lot of Python programming experience will not likely get much out of the workshop unless they have not used the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_ in the past.
 
-Prerequisites
--------------
-The main prerequisite for the workshop is the `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_. First, `install python <https://conda.io/docs/user-guide/install/index.html>`_. Then please become familiar with the sections starting with `Basic Python Objects, Variables, and Operators <https://basic-python.readthedocs.io/en/latest/basic_objects.html>`_.
-
 Course summary
 --------------
 The workshop will cover the fundamental handling of tabular data and the associated processing and analysis tools. We will be primarily using the toolset contained within the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_. This will include reading/writing data, indexing, reshaping, computations, joining tables, time series handling, and visualization.
@@ -45,7 +41,7 @@ Reference material
  + `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
  + `Intro to Python <http://introtopython.org>`_
  + `Learning Python 3 <https://mybinder.org/v2/gist/kenjyco/69eeb503125035f21a9d/master?filepath=learning-python3.ipynb>`_
- + `Official Beginners Guide <https://wiki.python.org/moin/BeginnersGuide>`_
+ + `Official Beginners Tutorial <https://docs.python.org/3/tutorial/>`_
 
 Using the Jupyter Notebooks for the workshop modules
 ----------------------------------------------------
@@ -58,6 +54,11 @@ If you would like to install your own Python environment, then please read throu
   conda env create -f environment.yml
 
 It might take a couple minutes, but just be patient...
+
+Prerequisites
+-------------
+The main prerequisite for the workshop is the `Introduction to Python <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_ course by the Monash University.
+Using the links provided by each chapter can be run independently without the installation of Python on your PC. Please go through at least the first 5 chapters before coming to the workshop. The last two are optional but recommended.
 
 Modules
 --------------

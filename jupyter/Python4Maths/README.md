@@ -15,7 +15,7 @@ Python is a modern, robust, high level programming language. It is very easy to 
 
 Python, similar to other languages like matlab or R, is interpreted hence runs slowly compared to C++, Fortran or Java. However writing programs in Python is very quick. Python has a very large collection of libraries for everything from scientific computing to web services. It caters for object oriented and functional programming with module system that allows large and complex applications to be developed in Python.
 
-These lectures are using jupyter notebooks which mix Python code with documentation. The python notebooks can be run on a webserver or stand-alone on a computer.
+These lectures are using jupyter notebooks which mix Python code with documentation. The python notebooks can be run by clicking the link or stand-alone on a computer.
 
 To give an indication of what Python code looks like, here is a simple bit of code that defines a set $N=\{1,3,4,5,7\}$ and calculates the sum of the squared elements of this set: $$\sum_{i\in N} i^2=100$$
 
@@ -33,44 +33,15 @@ print('The sum of ∑_i∈N i*i =',sum( i**2 for i in N ) )
 This course is broken up into a number of notebooks (chapters).
 
 * [01](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F01.ipynb) Basic data types and operations (numbers, strings)
-* [02](Intro-to-Python/02.ipynb) String manipulation
-* [03](Intro-to-Python/03.ipynb) Data structures: Lists and Tuples
-* [04](Intro-to-Python/04.ipynb) Data structures (continued): dictionaries
-* [05](Intro-to-Python/05.ipynb) Control statements: if, for, while, try statements
-* [06](Intro-to-Python/06.ipynb) Functions
-* [07](Intro-to-Python/07.ipynb) Classes and basic object oriented programming
+* [02](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F02.ipynb) String manipulation
+* [03](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F03.ipynb) Data structures: Lists and Tuples
+* [04](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F04.ipynb) Data structures (continued): dictionaries
+* [05](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F05.ipynb) Control statements: if, for, while, try statements
+* [06](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F06.ipynb) Functions
+* [07](https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2FPython4Maths%2FIntro-to-Python%2F07.ipynb) Classes and basic object oriented programming
 
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
-
-
-## Installation
-
-### Loging into the web server
-The easiest way to run this and other notebooks for staff and students at Monash University is to log into the Jupyter server at [https://sci-web17-v01.ocio.monash.edu.au/hub]. The steps for running notebooks are:
-* Log in using your monash email address. The first time you log in an empty account will automatically be set up for you.
-* Press the start button (if prompted by the system)
-* Use the menu of the jupyter system to upload a .ipynb python notebook file or to start a new notebook.
-
-### Installing
-
-Python runs on windows, linux, mac and other environments. There are many python distributions available. However the recommended way to install python under Microsoft Windows or Linux is to use the Anaconda distribution available at [https://www.continuum.io/downloads]. Make sure to get the Python *3.5* version, not 2.7. This distribution comes with the [SciPy](https://www.scipy.org/) collection of scientific python tools as well as the iron python notebook. For developing python code without notebooks consider using [spyder](https://github.com/spyder-ide/spyder) (also included with Anaconda)
-
-To open a notebook with anaconda installed, from the terminal run:
-
-    ipython notebook
-
-Note that for the Monash University optimisation course additional modules relating to the commercial optimisation library [CPLEX](http://www-01.ibm.com/software/commerce/optimization/cplex-optimizer/index.html) and possibly [Gurobi](http://www.gurobi.com/) may be used. These libraries are not available as part of any standard distribution but are available under academic licence and are included on the [Monash server](https://sci-web17-v01.ocio.monash.edu.au/hub).
-
-## How to learn from this resource?
-
-Download all the  notebooks from Moodle or [https://gitlab.erc.monash.edu.au/andrease/Python4Maths]
-
-Upload them to the monash server and lauch them or launch ipython notebook from the folder which contains the notebooks. Open each one of them
-
-Cell > All Output > Clear
-
-This will clear all the outputs and now you can understand each statement and learn interactively.
 
 
 ## License
