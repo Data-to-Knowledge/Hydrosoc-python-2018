@@ -61,6 +61,7 @@ Reference material
  + `Intro to Python <http://introtopython.org>`_
  + `Learning Python 3 <https://mybinder.org/v2/gist/kenjyco/69eeb503125035f21a9d/master?filepath=learning-python3.ipynb>`_
  + `Official Beginners Tutorial <https://docs.python.org/3/tutorial/>`_
+ 
  - Pandas
  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
  + `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
