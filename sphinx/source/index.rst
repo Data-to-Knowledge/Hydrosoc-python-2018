@@ -33,11 +33,11 @@ The location of the workshop will be at Environment Canterbury (`200 Tuam Street
 Instructors
 -----------
 - Mike Kittridge
- + Senior Scientist
+ + Senior Scientist - Hydrologist
  + Environment Canterbury
  + mike.exner-kittridge@ecan.govt.nz
 - Wilco Ternik
- + Senior Scientist
+ + Senior Scientist - Hydrologist
  + Environment Canterbury
  + wilco.terink@ecan.govt.nz
 
@@ -45,7 +45,7 @@ Using the Jupyter Notebooks for the workshop modules
 ----------------------------------------------------
 This workshop uses self contained code sets called `Jupyter Notebooks <http://jupyter.org/>`_. The workshop will not explicitly require you to install python on your PC, but you are welcome to try as described in the next paragraph. Consequently for the workshop, the preferred method to run the notebooks will be through the `binder <https://mybinder.org/>`_ links that build the correct python environment for the notebooks to be run under. This ensures that no one will have issues properly running the notebooks.
 
-**Please run through** the short notebook `A quick tour of Jupyter/IPython Notebooks <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-cookbook%2Fcookbook%2FA%20quick%20tour%20of%20IPython%20Notebook.ipynb>`_. It will familiarise you with Jupyter notebooks and some of it's capabilities.
+**Please run through** the short notebook `A quick tour of Jupyter/IPython Notebooks <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-cookbook%2Fcookbook%2FA%20quick%20tour%20of%20IPython%20Notebook.ipynb>`_. It will familiarise you with Jupyter notebooks and some of its capabilities.
 
 Installing a Python environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,10 +66,8 @@ Reference material
 ------------------
 - Basic Python
  + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
- + `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
- + `Intro to Python <http://introtopython.org>`_
- + `Learning Python 3 <https://mybinder.org/v2/gist/kenjyco/69eeb503125035f21a9d/master?filepath=learning-python3.ipynb>`_
- + `Official Beginners Tutorial <https://docs.python.org/3/tutorial/>`_
+ + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
+ + `General introduction to Python <http://introtopython.org>`_
 
 - Pandas
  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
