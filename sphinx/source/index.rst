@@ -37,35 +37,6 @@ Instructors
  + Environment Canterbury
  + wilco.terink@ecan.govt.nz
 
-Reference material
-------------------
-- Basic Python
- + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
- + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
- + `General Introduction to Python <http://introtopython.org>`_
-
-- Pandas
- + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
-
-Modules
---------------
-Through much internal debate, we've decided to utilise a couple pre-existing Python courses that are very well made.
-All are completely self-contained and the Pandas fundamentals include an accompanying Youtube video series associated with the exercises.
-Pandas fundamentals use the fantastic open-access course provided by the `Data School <https://www.dataschool.io/easier-data-analysis-with-pandas/>`_.
-
-- Pandas fundamentals
- + `Easier data analysis in Python with pandas <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
-
-- Time series
- + `Effective Pandas time series <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_7_timeseries.ipynb>`_
-
-- Plotting
- + `Effective Pandas visualisation <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_6_visualization.ipynb>`_
-
-- Post-workshop exercises
- + `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Sections
