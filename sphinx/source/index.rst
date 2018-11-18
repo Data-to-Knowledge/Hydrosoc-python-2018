@@ -26,10 +26,6 @@ Registration
 ------------
 Please contact the instructors via the email addresses below to sign up for the workshop. There will be a maximum of 30 attendees for the workshop. Suggestions for advanced topics or examples are welcome.
 
-Location and date
------------------
-The location of the workshop will be at Environment Canterbury (`200 Tuam Street, Christchurch <https://goo.gl/maps/Wq6moBigvwS2>`_) in the Waimakariri Room. It will take place at 9:00 on Monday Dec 3rd, 2018. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch.
-
 Instructors
 -----------
 - Mike Kittridge
@@ -41,33 +37,12 @@ Instructors
  + Environment Canterbury
  + wilco.terink@ecan.govt.nz
 
-Using the Jupyter Notebooks for the workshop modules
-----------------------------------------------------
-This workshop uses self contained code sets called `Jupyter Notebooks <http://jupyter.org/>`_. The workshop will not explicitly require you to install python on your PC, but you are welcome to try as described in the next paragraph. Consequently for the workshop, the preferred method to run the notebooks will be through the `binder <https://mybinder.org/>`_ links that build the correct python environment for the notebooks to be run under. This ensures that no one will have issues properly running the notebooks.
-
-**Please run through** the short notebook `A quick tour of Jupyter/IPython Notebooks <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-cookbook%2Fcookbook%2FA%20quick%20tour%20of%20IPython%20Notebook.ipynb>`_. It will familiarise you with Jupyter notebooks and some of its capabilities.
-
-Installing a Python environment
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you would like to install your own Python environment, then please read through and follow the documentation in `Intro to Python for Environmental Scientists <https://basic-python.readthedocs.io/en/latest/installing_python.html>`_ especially as it relates to installing Anaconda/Miniconda and creating multiple python environments. If you feel like you'd like to give it a try, download the `environment.yml <https://raw.githubusercontent.com/Data-to-Knowledge/Hydrosoc-python-2018/master/environment.yml>`_ from this workshop's github repo and run the following line from the Anaconda prompt:
-
-.. code::
-
-  conda env create -f environment.yml
-
-It might take a couple minutes, but just be patient...
-
-Prerequisites
--------------
-The **main prerequisite** for the workshop is the `Introduction to Python <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_ course by the Monash University.
-The links provided by each chapter can be run independently without the installation of Python on your PC. Please go through at least the first 5 chapters before coming to the workshop. The last two are optional but recommended.
-
 Reference material
 ------------------
 - Basic Python
  + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
  + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
- + `General introduction to Python <http://introtopython.org>`_
+ + `General Introduction to Python <http://introtopython.org>`_
 
 - Pandas
  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
@@ -93,6 +68,9 @@ Pandas fundamentals use the fantastic open-access course provided by the `Data S
 
 .. toctree::
    :maxdepth: 2
-   :caption: License
+   :caption: Sections
 
+   date_location
+   prerequisites
+   schedule
    license-terms
