@@ -13,3 +13,13 @@ Time           Module
 14:45 - 15:00  BREAK
 15:00 - 16:30  To be determined...
 =============  ========
+
+Reference material
+------------------
+- Basic Python
+ + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
+ + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
+ + `General Introduction to Python <http://introtopython.org>`_
+
+- Pandas
+ + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
