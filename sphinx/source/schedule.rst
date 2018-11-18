@@ -6,7 +6,7 @@ Schedule and Modules
 | Time          |      Module                                           |
 +===============+=======================================================+
 |               |                                                       |
-| 9:00 - 10:30  | `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_                                                                                  |
+| 9:00 - 10:30  | |Pandas fundamentals|                                 |
 |               |                                                       |
 | 10:30 - 10:45 |     BREAK                                             |
 |               |                                                       |
@@ -23,3 +23,5 @@ Schedule and Modules
 | 15:00 - 16:30 |                                                       |
 |               |                                                       |
 +---------------+-------------------------------------------------------+
+
+.. |Pandas fundamentals| replace:: `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
