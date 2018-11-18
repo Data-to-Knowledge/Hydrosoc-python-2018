@@ -70,7 +70,7 @@ Modules
 --------------
 Through much internal debate, we've decided to utilise a couple pre-existing Python courses that are very well made.
 All are completely self-contained and the Pandas fundamentals include an accompanying Youtube video series associated with the exercises.
-Pandas fundamentals use the fantastic open-access courses provided by the `Data School <https://www.dataschool.io/easier-data-analysis-with-pandas/>`_.
+Pandas fundamentals use the fantastic open-access course provided by the `Data School <https://www.dataschool.io/easier-data-analysis-with-pandas/>`_.
 
 - Pandas fundamentals
  + `Easier data analysis in Python with pandas <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
@@ -79,7 +79,7 @@ Pandas fundamentals use the fantastic open-access courses provided by the `Data 
  + `Effective Pandas <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_7_timeseries.ipynb>`_
 
 - Plotting
-
+ + `Effective Pandas <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_6_visualization.ipynb>`_
 
 .. toctree::
    :maxdepth: 2
