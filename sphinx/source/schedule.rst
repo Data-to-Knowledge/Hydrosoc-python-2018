@@ -5,6 +5,9 @@ Through much internal debate, we've decided to utilise a couple pre-existing Pyt
 All are completely self-contained and the Pandas fundamentals include an accompanying Youtube video series associated with the exercises.
 Pandas fundamentals use the fantastic open-access course provided by the `Data School <https://www.dataschool.io/easier-data-analysis-with-pandas/>`_.
 
+Schedule
+--------
+
 =============  ========
 Time           Module
 =============  ========
