@@ -6,32 +6,10 @@ Time           Module
 =============  ========
 9:00 - 10:30   `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
 10:30 - 10:45  BREAK
-
+10:45 - 12:15  `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
+12:15 - 13:15  LUNCH
+13:15 - 14:45  `Visualisation <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_6_visualization.ipynb>`_
+               `Time series <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_7_timeseries.ipynb>`_
+14:45 - 15:00  BREAK
+15:00 - 16:30  To be determined...
 =============  ========
-
-
-
-
-+---------------+-------------------------------------------------------+
-| Time          |      Module                                           |
-+===============+=======================================================+
-|               |                                                       |
-| 9:00 - 10:30  |  |Pandas_fundamentals|                                |
-|               |                                                       |
-| 10:30 - 10:45 |     BREAK                                             |
-|               |                                                       |
-| 10:45 - 12:15 |                                                       |
-|               |                                                       |
-+---------------+-------------------------------------------------------+
-| 12:15 - 13:15 |     LUNCH                                             |
-+---------------+-------------------------------------------------------+
-|               |                                                       |
-| 13:15 - 14:45 |                                                       |
-|               |                                                       |
-| 14:45 - 15:00 |      BREAK                                            |
-|               |                                                       |
-| 15:00 - 16:30 |                                                       |
-|               |                                                       |
-+---------------+-------------------------------------------------------+
-
-.. |Pandas_fundamentals| replace:: `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
