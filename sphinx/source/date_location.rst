@@ -3,7 +3,7 @@ Date and Location
 
 Date
 ----
-The workshop will take place at 9:00 on Monday Dec 3rd, 2018. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch.
+The workshop will take place at 9:00 on Monday Dec 3rd, 2018. It will likely run until 16:00-17:00 with a morning and an afternoon tea break and lunch. Go to the section :doc:'schedule' for more details.
 
 Location
 --------
