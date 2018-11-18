@@ -19,8 +19,9 @@ Time           Module
 15:00 - 16:30  To be determined...
 =============  ========
 
-- Post-workshop exercises
- + `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
+Post-workshop exercises
+-----------------------
+- `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
 
 Reference material
 ------------------
