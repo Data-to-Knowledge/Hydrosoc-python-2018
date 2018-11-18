@@ -7,8 +7,6 @@ The Python programming language is one of the most popular languages for both ge
 
 The general goal of this workshop is to teach Python tools specifically beneficial for natural/environmental scientists in New Zealand handling large amounts of data. This will be accomplished through a combination of practical exercises and presentations.
 
-All workshop materials are accessible via the `course website <https://hydrosoc-python-2018.readthedocs.io>`_.
-
 Intended audience
 ------------------
 The intended audience for the workshop are people with very little to some experience with programming (Python or otherwise). Those people with a lot of Python programming experience will not likely get much out of the workshop unless they have not used the `Pandas package <http://pandas.pydata.org/pandas-docs/stable/>`_ in the past.
