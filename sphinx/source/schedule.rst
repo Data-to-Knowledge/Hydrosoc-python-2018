@@ -34,4 +34,5 @@ Reference material
  + `General Introduction to Python <http://introtopython.org>`_
 
 - Pandas
+ + `Pandas cheat sheet <https://github.com/pandas-dev/pandas/raw/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf>`_
  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
