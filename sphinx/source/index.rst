@@ -30,7 +30,7 @@ Instructors
  + Senior Scientist - Hydrologist
  + Environment Canterbury
  + mike.exner-kittridge@ecan.govt.nz
-- Wilco Ternik
+- Wilco Terink
  + Senior Scientist - Hydrologist
  + Environment Canterbury
  + wilco.terink@ecan.govt.nz
