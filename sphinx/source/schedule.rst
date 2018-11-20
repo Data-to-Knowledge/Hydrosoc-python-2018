@@ -36,3 +36,7 @@ Reference material
 - Pandas
  + `Pandas cheat sheet <https://github.com/pandas-dev/pandas/raw/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf>`_
  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
+
+ Glossary of terms
+ -----------------
+ `Python 3 glossary <https://docs.python.org/3/glossary.html>`_
