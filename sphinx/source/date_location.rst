@@ -7,7 +7,7 @@ The workshop will take place at 9:00 on Monday Dec 3rd, 2018. It will likely run
 
 Location
 --------
-The location of the workshop will be at Environment Canterbury (`200 Tuam Street, Christchurch <https://goo.gl/maps/Wq6moBigvwS2>`_) in the Waimakariri Room
+The location of the workshop will be at Environment Canterbury (`200 Tuam Street, Christchurch <https://goo.gl/maps/Wq6moBigvwS2>`_) in the Waimakariri Room. For public transportation options from the airport to ECan, use `this google map link <https://www.google.com/maps/dir/Christchurch+International+Airport,+Christchurch+Airport,+Christchurch+8053/Environment+Canterbury,+Tuam+Street,+Christchurch+Central,+Christchurch/@-43.5195315,172.5785579,13.75z/data=!4m18!4m17!1m5!1m1!1s0x6d31f4be4ac2d105:0xa86e8d1b4272a210!2m2!1d172.5417024!2d-43.4877141!1m5!1m1!1s0x6d321e5627693799:0x5a9f916e9e02ac87!2m2!1d172.638384!2d-43.535837!2m3!6e1!7e2!8j1543827600!3e3?hl=en&authuser=0>`_.
 
 .. raw:: html
 
