@@ -7,7 +7,7 @@ The workshop will take place at 9:00 on Monday Dec 3rd, 2018. It will likely run
 
 Location
 --------
-The location of the workshop will be at Environment Canterbury (`200 Tuam Street, Christchurch <https://goo.gl/maps/Wq6moBigvwS2>`_) in the Waimakariri Room. For public transportation options from the airport to ECan, use `this google map link <https://www.google.com/maps/dir/Christchurch+International+Airport,+Christchurch+Airport,+Christchurch+8053/Environment+Canterbury,+Tuam+Street,+Christchurch+Central,+Christchurch/@-43.5195315,172.5785579,13.75z/data=!4m18!4m17!1m5!1m1!1s0x6d31f4be4ac2d105:0xa86e8d1b4272a210!2m2!1d172.5417024!2d-43.4877141!1m5!1m1!1s0x6d321e5627693799:0x5a9f916e9e02ac87!2m2!1d172.638384!2d-43.535837!2m3!6e1!7e2!8j1543827600!3e3?hl=en&authuser=0>`_.
+The location of the workshop will be at Environment Canterbury (`200 Tuam Street, Christchurch <https://goo.gl/maps/Wq6moBigvwS2>`_) in the Waimakariri Room. For public transportation options from the airport to ECan, use `this google map link <https://maps.app.goo.gl/?link=https://goo.gl/maps/4kN14Jya68p?utm_source%3Dapp-invite%26mt%3D8%26pt%3D9008%26utm_medium%3DSIMPLE%26utm_campaign%3Ds2e-ai%26ct%3Ds2e-ai&apn=com.google.android.apps.maps&amv=703000000&isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&utm_source=app-invite&mt=8&pt=9008&utm_medium=SIMPLE&utm_campaign=s2e-ai&ct=s2e-ai&invitation_id=493454522602-94506a48-684c-49d2-adba-046af7a1e4aa>`_.
 
 .. raw:: html
 
