@@ -28,7 +28,7 @@ Post-workshop exercises and/or courses
 
   + `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
   + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
-  
+
 - Python and GIS spatial analysis
 
   + `Automating GIS Processes <https://automating-gis-processes.github.io/2018/index.html>`_ (Fantastic course!)
@@ -36,13 +36,15 @@ Post-workshop exercises and/or courses
 Reference material
 ------------------
 - Basic Python
- + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
- + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
- + `General Introduction to Python <http://introtopython.org>`_
+
+  + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
+  + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
+  + `General Introduction to Python <http://introtopython.org>`_
 
 - Pandas
- + `Pandas cheat sheet <https://github.com/pandas-dev/pandas/raw/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf>`_
- + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
+
+  + `Pandas cheat sheet <https://github.com/pandas-dev/pandas/raw/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf>`_
+  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
 
 Glossary of terms
 -----------------
