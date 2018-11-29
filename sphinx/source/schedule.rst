@@ -28,6 +28,7 @@ Post-workshop exercises and/or courses
 
   + `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
   + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
+  
 - Python and GIS spatial analysis
 
   + `Automating GIS Processes <https://automating-gis-processes.github.io/2018/index.html>`_ (Fantastic course!)
