@@ -22,9 +22,13 @@ Time           Module
 15:00 - 16:30  To be determined...
 =============  ========
 
-Post-workshop exercises
------------------------
-- `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
+Post-workshop exercises and/or courses
+--------------------------------------
+- More Pandas functionality
+  + `Best practices with Pandas <https://github.com/justmarkham/pycon-2018-tutorial>`_
+  + `Official Pandas docs <https://pandas.pydata.org/pandas-docs/stable/tutorials.html>`_
+- Python and GIS spatial analysis
+  + `Automating GIS Processes <https://automating-gis-processes.github.io/2018/index.html>`_ (Fantastic course!)
 
 Reference material
 ------------------
