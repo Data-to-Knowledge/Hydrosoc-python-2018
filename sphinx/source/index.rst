@@ -27,13 +27,16 @@ Please contact the instructors via the email addresses below to sign up for the 
 Instructors
 -----------
 - Mike Kittridge
- + Senior Scientist - Hydrologist
- + Environment Canterbury
- + mike.exner-kittridge@ecan.govt.nz
+
+  + Senior Scientist - Hydrologist
+  + Environment Canterbury
+  + mike.exner-kittridge@ecan.govt.nz
+
 - Wilco Terink
- + Senior Scientist - Hydrologist
- + Environment Canterbury
- + wilco.terink@ecan.govt.nz
+
+  + Senior Scientist - Hydrologist
+  + Environment Canterbury
+  + wilco.terink@ecan.govt.nz
 
 .. toctree::
    :maxdepth: 2
