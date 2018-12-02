@@ -11,7 +11,7 @@ Schedule
 =============  ========
 Time           Module
 =============  ========
-9:00 - 10:30    `Introduction to Python summary <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_
+9:00 - 10:30    `Introduction to Python recap <https://github.com/Data-to-Knowledge/Hydrosoc-python-2018/blob/master/jupyter/Python4Maths/README.md>`_
 10:30 - 10:45  BREAK
 10:45 - 12:15  `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
 12:15 - 13:15  LUNCH
