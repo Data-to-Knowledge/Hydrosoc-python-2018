@@ -16,7 +16,7 @@ Time           Module
 10:45 - 12:15  `Pandas fundamentals <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Fpandas-videos%2Fpandas.ipynb>`_
 12:15 - 13:15  LUNCH
 13:15 - 14:45  `Visualisation <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_6_visualization.ipynb>`_
-               and
+               and\n
                `Time series <https://mybinder.org/v2/gh/Data-to-Knowledge/Hydrosoc-python-2018.git/master?filepath=jupyter%2Feffective-pandas%2Fmodern_7_timeseries.ipynb>`_
 14:45 - 15:00  BREAK
 15:00 - 16:30  To be determined...
@@ -37,7 +37,7 @@ Reference material
 ------------------
 - Basic Python
 
-  + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_
+  + `Python Quick Reference <https://github.com/justmarkham/python-reference>`_ (`Jupyter Notebook <https://mybinder.org/v2/gh/justmarkham/python-reference/master?filepath=reference.ipynb>`_)
   + `Introduction to Python for Environmental Scientists <https://basic-python.readthedocs.io>`_
   + `General Introduction to Python <http://introtopython.org>`_
 
